@@ -1,0 +1,5 @@
+cython
+submitit
+scipy
+onnx
+onnxruntime
