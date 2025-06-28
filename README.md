@@ -1,7 +1,7 @@
 # GAA-DETR
 **MICCAI-2025 Early Accept**: Query-Level Alignment for End-to-end Lesion Detection with Human Gaze
 
-![intro](image\fig_intro.jpg)
+![intro](.\image\fig_intro.jpg)
 
 Our work introduces a novel detection framework, **GAA-DETR (Gaze-Aligned Attention Detection Transformer)**, which integrates clinical gaze data to enhance lesion detection accuracy. Inspired by how clinicians search for lesions during diagnosis, our method aligns model attention with gaze patterns, enabling detection models to "see" like doctors. 
 
