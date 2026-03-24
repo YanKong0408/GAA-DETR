@@ -16,6 +16,8 @@ Our gaze data were collected using [MicEye-v2.0](https://github.com/YanKong0408/
 
 **[Download Gaze Data](https://pan.baidu.com/s/1Rz3KSEU_uKzbMi7VJUeHHg?pwd=gaze)** (Password: `gaze`)
 
+**Note on Full Processed Dataset**: Due to the licensing restrictions of the original public datasets, we are unable to host the fully processed versions (including pre-processed images and consolidated labels) in an open-source repository. However, if you require the complete processed dataset for non-commercial research purposes, please contact kongyan@smail.nju.edu.cn. We are happy to share the data upon confirmation that it will be used strictly for academic research.
+
 ### Image Data
 The image data used in our work is sourced from the following public datasets:
 
@@ -116,19 +118,19 @@ python mian.py \
     --eval
 ```
 
-<!-- More experiment results are shown in [our paper](https://arxiv.org/pdf/2405.09463). -->
-
-<!-- More test will come soon.
-
 ## Citation
 Use this bibtex to cite this repository:
 ```
-@misc{kong2024gazedetr,
-      title={Gaze-DETR: Using Expert Gaze to Reduce False Positives in Vulvovaginal Candidiasis Screening}, 
-      author={Yan Kong and Sheng Wang and Jiangdong Cai and Zihao Zhao and Zhenrong Shen and Yonghao Li and Manman Fei and Qian Wang},
-      year={2024},
-      eprint={2405.09463},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{kong2025query,
+  title={Query-Level Alignment for End-to-End Lesion Detection with Human Gaze},
+  author={Kong, Yan and Peng, Zhixiang and Yin, Yuan and Li, Yonghao and Cai, Jiangdong and Wang, Sheng and Wang, Qian and Fang, Yuqi and Shan, Caifeng},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={496--506},
+  year={2025},
+  organization={Springer}
 }
-``` -->
+```
+
+## Contact me
+Github issue or [kongyan@smail.edu.cn]().
+
