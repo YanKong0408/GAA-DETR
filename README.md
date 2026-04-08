@@ -12,7 +12,7 @@ We also contribute the first large-scale **Medical Lesion Detection Gaze Dataset
 ## Dataset
 ![dataset](./image/fig_dataset.jpg)
 
-[Download breast dataset](https://huggingface.co/datasets/yankon0408/GAA-DETR-breast) | [Download cervical dataset]((https://pan.baidu.com/s/1Rz3KSEU_uKzbMi7VJUeHHg?pwd=gaze))
+[Download breast dataset](https://huggingface.co/datasets/yankon0408/GAA-DETR-breast) | [Download cervical dataset](https://pan.baidu.com/s/1Rz3KSEU_uKzbMi7VJUeHHg?pwd=gaze)
 
 ---
 
