@@ -11,12 +11,10 @@ We also contribute the first large-scale **Medical Lesion Detection Gaze Dataset
 
 ## Dataset
 ![dataset](./image/fig_dataset.jpg)
+
+**[Download breast dataset](https://huggingface.co/datasets/yankon0408/GAA-DETR-breast)** 
 ### Gaze Data
 Our gaze data were collected using [MicEye-v2.0](https://github.com/YanKong0408/MicEye-v2.0), a tool that records radiologists' eye movements during bounding box annotations. The processed dataset, including gaze heatmaps, is available for download:
-
-**[Download Gaze Data](https://pan.baidu.com/s/1Rz3KSEU_uKzbMi7VJUeHHg?pwd=gaze)** (Password: `gaze`)
-
-**Note on Full Processed Dataset**: Due to the licensing restrictions of the original public datasets, we are unable to host the fully processed versions (including pre-processed images and consolidated labels) in an open-source repository. However, if you require the complete processed dataset for non-commercial research purposes, please contact kongyan@smail.nju.edu.cn. We are happy to share the data upon confirmation that it will be used strictly for academic research.
 
 ### Image Data
 The image data used in our work is sourced from the following public datasets:
