@@ -12,7 +12,10 @@ We also contribute the first large-scale **Medical Lesion Detection Gaze Dataset
 ## Dataset
 ![dataset](./image/fig_dataset.jpg)
 
-[[Download breast dataset]](https://huggingface.co/datasets/yankon0408/GAA-DETR-breast)** | [[Download cervical dataset]]((https://pan.baidu.com/s/1Rz3KSEU_uKzbMi7VJUeHHg?pwd=gaze))
+---
+[[Download breast dataset]](https://huggingface.co/datasets/yankon0408/GAA-DETR-breast) | [[Download cervical dataset]]((https://pan.baidu.com/s/1Rz3KSEU_uKzbMi7VJUeHHg?pwd=gaze))
+---
+
 ### Gaze Data
 Our gaze data were collected using [MicEye-v2.0](https://github.com/YanKong0408/MicEye-v2.0), a tool that records radiologists' eye movements during bounding box annotations. The processed dataset, including gaze heatmaps, is available for download:
 
